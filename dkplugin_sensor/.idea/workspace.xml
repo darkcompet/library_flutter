@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce40c6e0-1db1-4146-8595-407039a71d2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/androidTest/java/compet/filemanager/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/java/compet/filemanager/FMApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/java/compet/filemanager/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/java/compet/filemanager/other/$.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/java/compet/filemanager/other/S.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/java/compet/filemanager/other/U.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v21/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v21/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v21/ic_menu_manage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v21/ic_menu_send.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v21/ic_menu_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable/bkg_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/menu/main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values/drawables.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values/prefs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/main/res/xml/pref_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/app/src/test/java/compet/filemanager/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file_manager/file_manager_android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/androidTest/java/compet/freehand/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/FHApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/MainActivityInf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/fragment/PaintFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/fragment/RootFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/model/CircleShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/model/FreeShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/model/LineShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/model/OvalShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/model/RectShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/model/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/other/$.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/other/S.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/other/U.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/view/ControlView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/view/NaviHeaderView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/java/compet/freehand/view/PaintView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/anim/bigger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/anim/enter_right_to_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/anim/exit_right_to_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/anim/smaller.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-hdpi/ic_brush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-mdpi/ic_brush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-nodpi/img_navi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-nodpi/img_splash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-xhdpi/ic_brush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-xxhdpi/ic_brush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable-xxxhdpi/ic_brush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable/bkg_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/drawable/bkg_window.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/layout/frag_paint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/layout/view_control.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/layout/view_drawer_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/layout/view_pref_divider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/menu/navi_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/values/constants.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/main/res/xml/pref_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/app/src/test/java/compet/freehand/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../free_hand/free_hand_android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_120_phan_kim.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_120_phan_kim.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_24_son.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_24_son.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_60_mach.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_60_mach.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_72_long.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_72_long.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_bat_trach.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_bat_trach.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_mac_dinh.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_mac_dinh.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_thien_dia_nhan.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/assets/compass/laban_thien_dia_nhan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/activity/AppBaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/activity/main/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/activity/main/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/activity/main/MainActivityContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/activity/main/MainActivityPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/constant/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/constant/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/constant/EventBusConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/AppDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/CompassManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/CompassManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/RingManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/RingManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/SavedDataManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/SearchHistoryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/manager/SearchHistoryManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/CompassModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/CompassModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/RingModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/RingModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/SavedDataModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/SearchHistoryModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/model/SearchHistoryModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/CompassSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/CompassSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/DatabaseSchema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/RingSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/RingSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/SavedDataSchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/SavedDataSchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/SearchHistorySchema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/database/schema/SearchHistorySchema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/AppDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/BatTrachAnalyseDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/BatTrachAnalyseDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/CalibrateGuideDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/CalibrateGuideDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/ExtendTimeDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/ExtendTimeDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/FlyingStarChartAnalyseDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/FlyingStarChartAnalyseDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/GetMorePointDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/GetMorePointDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/ImportBuiltinCompassDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/ImportBuiltinCompassDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/InputDegreesDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/InputDegreesDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/LuckyLookupDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/LuckyLookupDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/PhotoViewDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/PhotoViewDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/PleaseWaitDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/PleaseWaitDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/PurchasePointDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/PurchasePointDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/SettingDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/SettingDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/dialog/UpgradeDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/diskcache/ImageCacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/AppBaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/AppBasePreferenceFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/RootFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/RootFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/about/AboutFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/about/AboutFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/account/AccountFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/account/AccountFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/account/AccountPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/compassLibrary/CompassDetailFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/compassLibrary/EditRingFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/compassLibrary/EditWordFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/compassLibrary/LibraryFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/fengshuiAnalyzer/BatTrachFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/fengshuiAnalyzer/BatTrachPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/fengshuiAnalyzer/FengshuiFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/fengshuiAnalyzer/FlyingStarChartFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/fengshuiAnalyzer/FlyingStarChartPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onMap/AppMapFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onMap/CompassSubPrefFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onMap/GmapSubPrefFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onMap/OnMapFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onMap/OnMapPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onMap/OtherSubPrefFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onPicture/CompassSubPrefFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onPicture/OnPictureFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onPicture/OnPicturePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/onPicture/OtherSubPrefFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/saveData/SaveDataFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/savedData/SavedDataFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/savedData/SavedDataItemFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/savedData/SavedDataItemFragmentPresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/search/SearchFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/search/SearchFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/setting/SettingFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/setting/SettingFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/support/SupportFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/support/SupportFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/tool/ToolFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/fragment/tool/ToolFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/helper/CompassHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/ServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/ServiceObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/repository/ActivityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/repository/ActivityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/repository/LibraryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/repository/LibraryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/response/BaseResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/response/BaseResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/response/EventResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/service/ActivityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/service/ActivityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/service/LibraryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/remote/service/LibraryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/util/ModelConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/util/Static.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/AppDrawerLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/AppDrawerLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/AppDrawerListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/ControlView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/ControlView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/LeftNaviHeaderView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/LeftNaviHeaderView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/SpeedControlView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/SpeedControlView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/ZoomableImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/ZoomableImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/ZoomableTextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/ZoomableTextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/item/CompassItemHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/item/FengshuiItemView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/item/RingItemHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/item/SaveDataItemView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/item/SearchItemView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/compet/gpscompass/view/item/WordItemHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/compassview/CompassUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/compassview/CompassView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/compassview/Info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/compassview/InfoReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/compassview/Ring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/paintview/PaintUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/paintview/PaintView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/photoview/PhotoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/java/tool/compet/photoview/PhotoView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable-hdpi/ic_vdots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable-mdpi/ic_vdots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable-xhdpi/ic_vdots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable-xxhdpi/ic_vdots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable-xxxhdpi/ic_vdots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable/bkg_button_stroke_corner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable/bkg_button_stroke_corner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable/bkg_divider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable/bkg_divider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable/bkg_stroke_corner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/drawable/bkg_stroke_corner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_add_new_compass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_add_new_compass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_base.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_bat_trach_analyse.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_bat_trach_analyse.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_edit_words.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_edit_words.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_extend_pro_time.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_extend_pro_time.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_flying_star_chart_analyse.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_flying_star_chart_analyse.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_import_builtin_compass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_import_builtin_compass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_input_degrees.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_input_degrees.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_lucky_lookup.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_lucky_lookup.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_photoview.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_photoview.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_purchase_point.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_purchase_point.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/dialog_setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_analyse_fengshui.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_analyse_fengshui.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_bat_trach.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_bat_trach.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_cmp_on_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_cmp_on_map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_cmp_on_picture.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_cmp_on_picture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_compass_detail.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_compass_detail.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_edit_ring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_flying_star_chart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_flying_star_chart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_save_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_saved_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_saved_data_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_support.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/frag_support.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_fengshui.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_fengshui.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_location.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_ring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_ring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_saved_data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_word.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/item_word.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/view_buttons.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/view_control.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/view_control.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/view_speed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/layout/view_speed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/navi_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_on_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_on_map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_on_picture.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_on_picture.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_saved_data_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_saved_data_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_saved_data_item_selected.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/menu/toolbar_setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values-ja/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values-ja/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values-vi/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values-vi/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values-zh/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/constants.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/constants.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/preferences.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/preferences.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_map_settings_compass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_map_settings_compass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_map_settings_gmap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_map_settings_gmap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_map_settings_others.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_map_settings_others.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_picture_settings_compass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_picture_settings_compass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_picture_settings_others.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_on_picture_settings_others.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/app/src/main/res/xml/pref_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gps_compass/gps_compass_android/update-libs.bash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/billing/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/billing/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/billing/src/main/java/tool/compet/billing/InAppMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/billing/src/main/java/tool/compet/billing/Security.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/binder/src/main/java/tool/compet/binder/Binder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/binder/src/main/java/tool/compet/binder/annotation/BindClick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/binder/src/main/java/tool/compet/binder/annotation/BindRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/binder/src/main/java/tool/compet/binder/annotation/BindView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/compassview/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/compassview/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/compassview/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/compassview/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/corejava/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/app/AppContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/app/BaseApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/app/BaseMultidexApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/cacher/ExternalCacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/cacher/InternalCacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/cacher/PreferenceCacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/copier/Copier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/copier/Match.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/DeferredResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/FileLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/HttpRequester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/Identifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/JsonHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/SimpleCrypto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/TwoFingerDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/helper/XmlParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/other/BaseConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/other/BaseStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/other/ICallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/other/TCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/sensor/BaseSensorMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/sensor/DirectionSensorMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/BaseUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Bitmaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Colors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Cryptos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Dates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Files.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Logs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Maths.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Objects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Reflections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/util/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/validator/Length.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/corejava/src/main/java/tool/compet/corejava/validator/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/coreui/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/contract/FragmentContract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/contract/OnChildFragmentBack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/helper/AnimationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/helper/ContextWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/ui/BaseActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/ui/BaseDialog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/ui/BaseFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/ui/BasePreferenceFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/ui/BasePresenter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/ui/BaseView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/util/Texts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/util/Views.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/view/IntervalClickButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/view/ReactiveImageView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/view/ReactiveTextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/java/tool/compet/coreui/view/SnackbarMaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/layout/base_frag_container.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values-ja/base_messages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values-ja/base_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values-vi/base_messages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values-vi/base_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values-zh/base_messages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values-zh/base_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_attributes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_constants.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_messages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_preferences.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/coreui/src/main/res/values/base_styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/database/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/src/main/java/tool/compet/database/BaseDatabaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/src/main/java/tool/compet/database/BaseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/src/main/java/tool/compet/database/BaseTableMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/src/main/java/tool/compet/database/annotation/ColumnInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/src/main/java/tool/compet/database/annotation/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/database/src/main/java/tool/compet/database/schema/BaseSchema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/eventbus/src/main/java/tool/compet/eventbus/EventBus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/eventbus/src/main/java/tool/compet/eventbus/EventBusListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/http/src/androidTest/java/tool/compet/retrofit/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/http/src/test/java/tool/compet/retrofit/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/imgproc/src/main/java/tool/compet/imgproc/BitmapMemoryCacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/imgproc/src/main/java/tool/compet/imgproc/BitmapProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/imgproc/src/main/java/tool/compet/imgproc/EdgeDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/playservice/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/auth/GoogleApiClientMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/auth/GoogleLogInMan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/constant/PlayServiceConst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/location/GpsTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/location/LocationTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/location/PlaceAutocompleteAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/map/BaseMapFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/model/MyLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/searcher/AltitudeSearcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/searcher/LocationSearcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/playservice/src/main/java/tool/compet/playservice/util/LocationUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/http/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/http/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/http/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/http/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/RequestMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/Retrofit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/RetrofitHttpRequester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/ServiceMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/annotation/Body.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/annotation/GET.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/annotation/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/annotation/POST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/java/tool/compet/retrofit/annotation/Query.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/retrofit/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/http/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/stream/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/stream/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/stream/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/stream/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/Cancellable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/Emitter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/ArrayObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/BaseMapObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/CallableObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/DoOnCompleteObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/DoOnErrorObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/DoOnOneSuccessObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/DoOnSubscribeObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/EmitterObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/ExecuteOnObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/IterableObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/MapObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/Observable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observable/ObserveOnObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/ArrayObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/CallableObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/CancellableObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/EmptyObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/ExecuteOnObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/IterableObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/MapObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/ObserveOnObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/observer/SingleObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/operator/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/scheduler/IOScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/scheduler/MainScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/scheduler/Scheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/scheduler/Schedulers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/java/tool/compet/rxjava/scheduler/SerialExecutor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/rxjava/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/stream/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/stream/src/androidTest/java/tool/compet/rxjava/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_android/stream/src/test/java/tool/compet/rxjava/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Downloader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Sudoku$Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Sudoku$MyCell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Sudoku$MyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Sudoku$MySudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/Sudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/XmlRefactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/Bitwise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/MathEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/SortQuery$Query.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/SortQuery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/UnionFind$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/algorithms/UnionFind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/BinaryHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/FenwickTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/Graph$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/Graph$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/SegmentTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/SegmentTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/SegmentTreeFast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/SparseTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/Trie$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/Trie$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/datastructures/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/FifteenPuzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/Inversion$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/Inversion$FenwickTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/Inversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/LeastCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/problems/SubarraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/ICallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/ImageUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/ImageUtil$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/NumberToWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/tools/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/zzz_hackerrank" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/zzz_input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/out/production/library_java/zzz_output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/CryptoHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/Downloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_java/src/Downloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/FileIO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_java/src/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/XmlRefactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/algorithms/Bitwise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/algorithms/MathEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/algorithms/Prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/algorithms/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/algorithms/SortQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/algorithms/UnionFind.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/datastructures/FenwickTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../library_java/src/datastructures/FenwickTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/zzz_data/hackerrank" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/zzz_data/input" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../library_java/src/zzz_data/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/ha-ga.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/ippan-zenpan.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/kansei-kanryou.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/kinmu-roudou.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/ni-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/ni-he.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/teikyou-kyoukyuu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/chigai/yori-mashi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/opposite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../minna_no_nihongo/plan.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/example/.pub/" />
+    <ignored path="$PROJECT_DIR$/example/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1550350101">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/dkplugin_sensor.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/dkplugin_sensor.dart" />
+        <option value="$PROJECT_DIR$/example/lib/main.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce40c6e0-1db1-4146-8595-407039a71d2d" name="Default Changelist" comment="" />
+      <created>1552661991262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552661991262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Captures" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.32902297" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dkplugin_sensor.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
